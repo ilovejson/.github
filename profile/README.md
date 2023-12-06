@@ -30,3 +30,34 @@ iLoveJSON is a comprehensive suite of online tools designed to streamline your J
 
 ### Learn More
 🧙 Embrace the power of JSON and Markdown.
+
+### As always, thanks to our amazing contributors!
+<a href="https://github.com/dr5hn/countries-states-cities-database/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dr5hn/countries-states-cities-database&anon=1" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
+### Sponsors
+<p align="center">
+  <a href="https://cdn.jsdelivr.net/gh/dr5hn/static/sponsors.svg">
+    <img src='https://cdn.jsdelivr.net/gh/dr5hn/static/sponsors.svg'/>
+  </a>
+</p>
+
+### Make the world more Greener 🌴
+Contribute towards a better earth by [**buying the world a tree**](https://ecologi.com/darshangada?r=60f2a36e67efcb18f734ffb8).
+
+### Other Publishings
+Find this project on [data.world](https://data.world/dr5hn/country-state-city)
+
+### Follow me at
+<a href="https://github.com/dr5hn/"><img alt="Github @dr5hn" src="https://img.shields.io/static/v1?logo=github&message=Github&color=black&style=flat-square&label=" /></a> 
+<a href="https://twitter.com/dr5hn/"><img alt="Twitter @dr5hn" src="https://img.shields.io/static/v1?logo=twitter&message=Twitter&color=black&style=flat-square&label=" /></a> 
+<a href="https://www.linkedin.com/in/dr5hn/"><img alt="LinkedIn @dr5hn" src="https://img.shields.io/static/v1?logo=linkedin&message=LinkedIn&color=black&style=flat-square&label=&link=https://twitter.com/dr5hn" /></a>
+
+### 🙋‍♂️ Support My Work
+[![Github Sponsorship](https://raw.githubusercontent.com/dr5hn/dr5hn/main/.github/resources/github_sponsor_btn.svg)](https://github.com/sponsors/dr5hn)
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dr5hn)
+
