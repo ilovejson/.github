@@ -32,8 +32,8 @@ iLoveJSON is a comprehensive suite of online tools designed to streamline your J
 🧙 Embrace the power of JSON and Markdown.
 
 ### As always, thanks to our amazing contributors!
-<a href="https://github.com/dr5hn/countries-states-cities-database/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dr5hn/countries-states-cities-database&anon=1" />
+<a href="https://github.com/ilovejson/ilovejson/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ilovejson/ilovejson&anon=1" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
