@@ -29,4 +29,4 @@ iLoveJSON is a comprehensive suite of online tools designed to streamline your J
 🍿 Our team starts every day with a JSON-themed breakfast. Whether it's ‘Array’-nge juice, ‘Object’-oriented omelettes, or ‘String’-cheese sandwiches, we keep our data as delicious as our code!
 
 ### Learn More
-🧙 Embrace the power of JSON and Markdown. Check out GitHub's guide to [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for writing stylish READMEs and documentation.
+🧙 Embrace the power of JSON and Markdown.
