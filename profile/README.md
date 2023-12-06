@@ -20,7 +20,7 @@ iLoveJSON is a comprehensive suite of online tools designed to streamline your J
 - **json-to-php:** Transform JSON into PHP arrays.
 
 ### How can the community get involved?
-🌈 We love contributions! Whether it's suggesting new features, reporting bugs, or improving documentation, your input is invaluable. Feel free to fork our repositories, submit pull requests, and join our discussions. Check out our [contribution guidelines](LINK_TO_CONTRIBUTION_GUIDELINES) for more information.
+🌈 We love contributions! Whether it's suggesting new features, reporting bugs, or improving documentation, your input is invaluable. Feel free to fork our repositories, submit pull requests, and join our discussions.
 
 ### Useful resources
 👩‍💻 Visit our website [iLoveJSON](https://www.ilovejson.com/) for comprehensive documentation, tutorials, and tips on using our tools. Stay updated with the latest enhancements and join our vibrant community!
